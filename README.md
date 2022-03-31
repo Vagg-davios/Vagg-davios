@@ -3,9 +3,9 @@ Hey, 👋 I’m Vaggelis / @Vagg-davios
 - 💻 Trynna make it in SWE
 - 📩 Hit me up for project collabs 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vagg-davios&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vagg-davios&show_icons=true&hide_border=true&theme=tokyonight" alt="stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vagg-davios&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs"/>
 
-Template can be found on: https://github.com/anuraghazra/github-readme-stats
+Templates can be found on: https://github.com/anuraghazra/github-readme-stats
 <!---
 Vagg-davios/Vagg-davios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
