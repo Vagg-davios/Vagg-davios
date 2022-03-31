@@ -3,7 +3,8 @@ Hey, 👋 I’m Vaggelis / @Vagg-davios
 - 💻 Trynna make it in SWE
 - 📩 Hit me up for project collabs 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vagg-davios&show_icons=true&hide_border=true&theme=tokyonight" alt="stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vagg-davios&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs"/>
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vagg-davios&show_icons=true&hide_border=true&theme=tokyonight" alt="stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vagg-davios&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs"/> </p>
 
 Templates can be found on: https://github.com/anuraghazra/github-readme-stats
 <!---
