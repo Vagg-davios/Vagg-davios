@@ -5,6 +5,12 @@ Hey, 👋 I’m Vaggelis / @Vagg-davios
 
 <hr>
 
+<a href="https://github-readme-stats.vercel.app/api?username=Vagg-davios&hide_border=true&count_private=true&show_icons=true&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vagg-davios&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=Vagg-davios&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vagg-davios&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" />
+</a>
 
 <img height="200em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=Vagg-davios&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats"> <img height="200em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vagg-davios&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs">
 
